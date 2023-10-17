@@ -43,7 +43,7 @@
 ![MAYOR](./img/precio_mayor_50000.png)
 
 ### 9. ORDEN DESENDIENTE
-![ORDEN](./img/descendentemente_precio.png)
+![ORDEN](./img/articulo_datos_fabricante.png)
 
 ### 10. LISTADO DE ARTICULOS
 ![LISTADO](./img/articulo_datos_fabricante.png)
