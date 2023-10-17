@@ -42,8 +42,23 @@
 ### 8. MAYOR A 50000
 ![MAYOR](./img/precio_mayor_50000.png)
 
-### 9. ORDEN DESENDDIENTE
-![ORDEN]()
+### 9. ORDEN DESENDIENTE
+![ORDEN](./img/descendentemente_precio.png)
 
 ### 10. LISTADO DE ARTICULOS
-![LISTADO]()
+![LISTADO](./img/articulo_datos_fabricante.png)
+
+### 11. LISTADO DEL ARTICULO PRECIO Y NOMBRE
+![LISTADO_DE_PRECIO_Y_NOMBRE](./img/articulo_precio_fabricante.png)
+
+### 12. Codigos de fabricante
+![CODIGO_FABRICANTE]()
+
+### 13. nombre del fabricante
+![FABRICANTE](./img/fabricante_nombre.png)
+
+### 14. precio medio sea mayor o igual a 50000
+![PRECIO_MEDIO_MAYOR](./img/nombre_producto_mayor_50000.png)
+
+### 15. nombre y el precio del artículo mas barato
+![MAS_BARATO]()
